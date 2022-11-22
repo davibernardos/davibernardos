@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
 
- ![Snake animation](https://github.com/davibernardos/davibernardos/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
