@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davibernardos)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=davibernardos)](https://github.com/anuraghazra/github-readme-stats)
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
