@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davibernardos)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davibernardos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
@@ -27,3 +26,5 @@ Here are some ideas to get you started:
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
+
+ ![Snake animation](https://github.com/davibernardos/davibernardos/blob/output/github-contribution-grid-snake.svg)
